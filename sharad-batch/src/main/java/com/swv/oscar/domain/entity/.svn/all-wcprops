@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/java/com/swv/oscar/domain/entity
+END
+WeovgrantAmount.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/java/com/swv/oscar/domain/entity/WeovgrantAmount.java
+END
+WeovrestartData2.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/java/com/swv/oscar/domain/entity/WeovrestartData2.java
+END
+WeovcasPerTrack.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/java/com/swv/oscar/domain/entity/WeovcasPerTrack.java
+END
+WeovmthSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/java/com/swv/oscar/domain/entity/WeovmthSummary.java
+END
+Weovperson.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/java/com/swv/oscar/domain/entity/Weovperson.java
+END
+Weovalert.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/java/com/swv/oscar/domain/entity/Weovalert.java
+END
+WeovfactsHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/java/com/swv/oscar/domain/entity/WeovfactsHeader.java
+END
+WeovcivActNbr.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/java/com/swv/oscar/domain/entity/WeovcivActNbr.java
+END
+Weovcase.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/java/com/swv/oscar/domain/entity/Weovcase.java
+END
+Weovorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/java/com/swv/oscar/domain/entity/Weovorder.java
+END
+WeovflmHearing.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/java/com/swv/oscar/domain/entity/WeovflmHearing.java
+END
+WeovfinControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/java/com/swv/oscar/domain/entity/WeovfinControl.java
+END
+WeovcivActChild.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/java/com/swv/oscar/domain/entity/WeovcivActChild.java
+END
+WeovmthSummaryPw.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/java/com/swv/oscar/domain/entity/WeovmthSummaryPw.java
+END
+WeovcaseChild.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/java/com/swv/oscar/domain/entity/WeovcaseChild.java
+END
+WeovvalidValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/java/com/swv/oscar/domain/entity/WeovvalidValues.java
+END
+Weovinterstate.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/java/com/swv/oscar/domain/entity/Weovinterstate.java
+END
+WeovlegalOfficer.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/java/com/swv/oscar/domain/entity/WeovlegalOfficer.java
+END
+WeovrapidsInsuran.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/java/com/swv/oscar/domain/entity/WeovrapidsInsuran.java
+END
+Weovaddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/java/com/swv/oscar/domain/entity/Weovaddress.java
+END
+Weovocse157.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/java/com/swv/oscar/domain/entity/Weovocse157.java
+END
+Weovinsurance.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/java/com/swv/oscar/domain/entity/Weovinsurance.java
+END
+Weovobligation.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/java/com/swv/oscar/domain/entity/Weovobligation.java
+END
+WeovpersonAp.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/java/com/swv/oscar/domain/entity/WeovpersonAp.java
+END
+Weovemployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/java/com/swv/oscar/domain/entity/Weovemployer.java
+END
+WeovcheckptData2.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/java/com/swv/oscar/domain/entity/WeovcheckptData2.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/resources
+END
+persistence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/resources/persistence.xml
+END
+spring-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/resources/spring-config.xml
+END
+dbconfig.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/resources/dbconfig.properties
+END
+servlet-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/resources/servlet-config.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/resources/applicationContext.xml
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/resources/log4j.xml
+END

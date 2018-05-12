@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/java/com/swv/oscar/exceptions
+END
+OscarBusinessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/java/com/swv/oscar/exceptions/OscarBusinessException.java
+END
+OscarDataAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/java/com/swv/oscar/exceptions/OscarDataAccessException.java
+END
+OscarRESTException.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ATMA/!svn/ver/4665/Projects/branches/oscar/oscar-batch/src/main/java/com/swv/oscar/exceptions/OscarRESTException.java
+END
