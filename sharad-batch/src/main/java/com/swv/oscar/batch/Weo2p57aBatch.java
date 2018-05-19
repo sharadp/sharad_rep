@@ -25,9 +25,9 @@ public class Weo2p57aBatch {
    public void launchBatch() {
 	   
 
-	   System.out.println("kkkkkkkkkkkkkkkkkkkk");
+	   System.out.println("111111111111111111111");
 
-	   System.out.println("yyyyyyyyyyyyyyyyyyyy");
+	   System.out.println("222222222222222222222");
 
 
 
