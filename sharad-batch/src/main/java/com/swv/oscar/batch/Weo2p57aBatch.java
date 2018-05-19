@@ -26,13 +26,10 @@ public class Weo2p57aBatch {
 	   
 
 
-<<<<<<< HEAD
-      System.out.println("BBBBBBBBBBBBBBBBBBBBBBBBB");
+
 	   System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAA");
-=======
-           System.out.println("XXXXXXXXXXXXXXXXXXXXXX");
-	   System.out.println("YYYYYYYYYYYYYYYYYYYYYYY");
->>>>>>> branch 'master' of https://github.com/sharadp/sharad_rep.git
+
+
 
       ClassPathXmlApplicationContext applicationContext = new ClassPathXmlApplicationContext("applicationContext.xml");
       long startTime = new Date().getTime();
