@@ -24,15 +24,6 @@ public class Weo2p57aBatch {
 
    public void launchBatch() {
 	   
-	   System.out.println("wdaqdedfeafdf");
-	   System.out.println("abc");
-	   System.out.println("bcdccccccccccccccccccccccccccc");
-	   System.out.println("999999999999999999999");
-	   System.out.println("wdaqdedfeafdf");
-	   System.out.println("abc");
-	   System.out.println("bcdccccccccc");
-	   System.out.println("1111111111111111111");
-	   System.out.println("88888888888888888888888");
 	   System.out.println("xxxxxxxxxxxxxxxxxxxx");
 
       ClassPathXmlApplicationContext applicationContext = new ClassPathXmlApplicationContext("applicationContext.xml");
