@@ -25,9 +25,9 @@ public class Weo2p57aBatch {
    public void launchBatch() {
 	   
 
-	   System.out.println("vvvvvvvvvvvvvvvv");
+	   System.out.println("new ching 111111111");
 
-	   System.out.println("wwwwwwwwwwwwwwww");
+	   System.out.println("new ching 222222222");
 
 
 
