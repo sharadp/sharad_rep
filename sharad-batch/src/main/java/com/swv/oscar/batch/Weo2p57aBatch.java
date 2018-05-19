@@ -26,8 +26,7 @@ public class Weo2p57aBatch {
 	   
 
 
-
-	   System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAA");
+System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAA");
 System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAA");
 System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAA");
 System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAA");
