@@ -25,8 +25,13 @@ public class Weo2p57aBatch {
    public void launchBatch() {
 	   
 	   System.out.println("xxxxxxxxxxxxxxxxxxxx");
+
 	   System.out.println("zzzzzzzzzzzzzzzzzzzz");
 	   
+
+	   System.out.println("yyyyyyyyyyyyyyyyyyyy");
+
+
       ClassPathXmlApplicationContext applicationContext = new ClassPathXmlApplicationContext("applicationContext.xml");
       long startTime = new Date().getTime();
       try {
