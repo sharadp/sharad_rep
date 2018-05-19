@@ -23,6 +23,8 @@ public class Weo2p57aBatch {
    IWeo2p57aService iWeo2p57aService;
 
    public void launchBatch() {
+	   
+	   System.out.println("wdaqdedfeafdf");
       ClassPathXmlApplicationContext applicationContext = new ClassPathXmlApplicationContext("applicationContext.xml");
       long startTime = new Date().getTime();
       try {
