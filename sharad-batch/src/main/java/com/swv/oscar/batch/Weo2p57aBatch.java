@@ -26,7 +26,7 @@ public class Weo2p57aBatch {
 	   
 
 
-           System.out.println("BBBBBBBBBBBBBBBBBBBBBBBBB");
+      System.out.println("BBBBBBBBBBBBBBBBBBBBBBBBB");
 	   System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAA");
 
       ClassPathXmlApplicationContext applicationContext = new ClassPathXmlApplicationContext("applicationContext.xml");
