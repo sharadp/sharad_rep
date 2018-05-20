@@ -58,6 +58,7 @@ public class Weo2p57aRepositoryImpl implements IWeo2p57aRepository {
 		LOGGER.debug(AppConstants.REQUEST+ query);
 		Weo2p57aBO  weo2p57aBOResp = new Weo2p57aBO();
 		List<Weo2p57a> bOList = new ArrayList<>();
+		system.out.print("111111111111");
 		try {
 			TypedQuery<Object> typedQuery = (TypedQuery<Object>)entityMgr.createNativeQuery(query);
 			List<Object>  entityList = typedQuery.getResultList();
