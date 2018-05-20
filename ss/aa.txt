@@ -1,3 +1,7 @@
 bhcbchvbcgvbcgb
 dfsdfdsgdgdf
+<<<<<<< HEAD
 sharad
+=======
+pratap
+>>>>>>> ba54980787fc8fb014c07d4ec941d7ac1eaafe78
